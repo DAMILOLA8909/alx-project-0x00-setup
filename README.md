@@ -1,7 +1,5 @@
 # alx-project-0x00-setup
 
-# alx-project-0x00-setup
-
 # 🏗️ ALX Project 0x00 — Frontend Setup
 
 This project, **alx-project-0x00-setup**, is part of the **ALX Frontend Developer Specialization**.  
@@ -178,6 +176,7 @@ export default function Landing() {
 ### 🧑‍💻 Author
 
 👋 **Ojo Damilola**
+
 💼 Frontend Developer in training @ ALX Africa
 
 🔗 GitHub: DAMILOLA8909
