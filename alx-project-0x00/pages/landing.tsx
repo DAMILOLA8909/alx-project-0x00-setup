@@ -16,9 +16,10 @@ const Landing: React.FC = () => {
         <Card />
       </div>
       <div className="flex flex-col items-center gap-4 mt-8">
-        <Button title="Small Button" style="text-sm rounded-sm" />
-        <Button title="Medium Button" style="text-base rounded-md px-5 py-2" />
-        <Button title="Large Button" style="text-lg rounded-full px-6 py-3" />
+        <Button title="Small Button" styles="text-sm rounded-sm" />
+        <Button title="Medium Button" styles="text-base rounded-md px-5 py-2" />
+        <Button title="Large Button" styles="text-lg rounded-full px-6 py-3" />
+        <Button title="Extra Button" styles="text-base rounded-lg px-5 py-2" />
       </div>
 
     </div>
